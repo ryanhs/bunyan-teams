@@ -14,7 +14,7 @@
     "eslint-plugin-import": "2.20.2",
     "eslint-plugin-jest": "23.13.2",
     "jest": "26.0.1",
-    "jest-json-schema": "2.1.0"
+    "jest-json-schema": "5.0.0"
   },
   "dependencies": {
     "node-fetch": "^2.6.0"
