@@ -17,7 +17,7 @@
     "jest-json-schema": "2.1.0"
   },
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^3.1.1"
   },
   "engines": {
     "node": ">=8.11"
